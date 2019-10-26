@@ -1,0 +1,1 @@
+./build/part3 Short_FL.txt FL_test.txt output.txt
